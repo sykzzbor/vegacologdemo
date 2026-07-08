@@ -3,7 +3,7 @@
 // ============================================================
 
 // Número de WhatsApp del negocio (formato internacional, sin "+")
-export const WHATSAPP_NUMBER = "549XXXXXXXXXX";
+export const WHATSAPP_NUMBER = "5493525530216"
 
 export const BUSINESS_NAME = "Vegacolor Pinturerías";
 
